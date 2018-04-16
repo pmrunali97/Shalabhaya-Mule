@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shalabhaya Mule</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    
+    
+    
+    
+    <string name="textabout">About Us </string>
+    <string name="textVersion">Version : 1.0</string>
+    <string name="textCreate">Created By: </string>
+    <string name="textName"> Mrunali Pawar </string>
+     <string name="textName1"> Apoorva Nale </string>
+    <string name="textDetails"> Whats New ? </string>
+    <string name="textView1">- Improved Performance </string>
+    <string name="textView2">- Easier to use </string> 
+    <string name="textView3">- UI Improvements </string>
+    <string name="textView4">- More Understandable </string>
+    <string name="textSuggestions">Suggestions or bug reports</string>
+    <string name="textgmail">informus@gmail.com </string>
+    
+   
+   <string name = "home">Home</string>
+   <string name = "Register_Child">Register Child </string>
+   <string name = "About_Us">Abt Developers</string>
+   <string name = "Contact">Contact</string>
+   <string name = "About_Shalabhaya_help">Shalabhaya Mule</string>
+   <string name = "Share">Share</string>
+   <string name= "my_profile">My Profile</string>
+   
+   <string name = "sysemail">info@syscom.org.in</string>
+       <string name = "pune">Pune.(Maharashtra)</string>
+          <string name = "kasba">Kasba Peth,</string>
+            <string name = "add1">Shop No 2, Shriniket Apartment, 292,</string>
+        <string name = "contact"> Contact Us</string>
+                   <string name = "pin">411011</string>
+                      <string name = "president">President</string>
+                         <string name = "vcp">Vc President</string>
+                            <string name = "director">Director</string>
+                               <string name = "nboard"> Board of directors</string>
+                               <string name = "secretary">Secretary</string>
+                                  <string name = "jts">Jt. Secretary</string>
+                                     <string name = "treasurer">Treasurer</string>
+                                        <string name = "legaladv">Legal Advisor</string>
+                                          <string name = "pname">Rejendra Ahire</string>
+                                              <string name = "vcpname">Sushil Bahirat</string>
+                                              <string name = "about"> About Us</string>
+                                           
+                                                 <string name = "dname">Kailash Pokale</string>
+                                                    <string name = "sname">Satish Lokhande</string>   
+                                                    <string name = "jtsname">Narayan Garud</string>
+                                                       <string name = "tname">Govind Tekale</string>                         
+                                                        <string name = "ldavname">Anil Arote</string>
+                     <string name = "pno">9225513118</string>
+                     <string name = "vcpno">9371257585</string>
+                     <string name = "dno">9422303280</string>
+                     <string name = "sno">9881902651</string>
+                     <string name = "jtsno">9890544532</string>
+                     <string name = "tno">9745326980</string>
+                     <string name = "ldavno">9922914285</string>
+                     <string name = "name"> First Name </string>
+                     <string name = "lname">Last Name</string>
+                     <string name = "pemail">Email</string>
+                     <string name = "Mobno">Mobile no</string>
+                     <string name = "Address">Address</string>
+                     <string name = "Password">******</string>
+
+
+    
+
+</resources>

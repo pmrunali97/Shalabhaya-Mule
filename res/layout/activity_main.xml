@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shalabhayamule.MainActivity"
+    tools:ignore="MergeRootFrame" 
+    android:background="#43193b">
+    
+    
+    <TextView
+                android:id="@+id/appnametext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="200dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="@string/app_name"
+                android:textColor="#0fffff"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+    </RelativeLayout>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#43193b" >
+    
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/streetpic"
+        android:layout_gravity="center"
+        android:src="@drawable/streetchild">
+         
+    </ImageView>
+
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0fffff"
+        android:textSize="25sp"
+        android:id="@+id/longtext"
+        android:textStyle="italic"
+        android:textAlignment="gravity"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime">
+         </TextView>
+</LinearLayout>
